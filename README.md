@@ -5,3 +5,5 @@ A curated list of awesome push libraries and articles.
 [OnePush一个可拓展的Android消息推送SDK（使用介绍）](http://www.jianshu.com/p/91adbbde31e0)
 
 [OnePush GitHub链接](https://github.com/pengyuantao/OnePush)
+
+[安卓统一推送标准 已取得阶段性成果](https://mp.weixin.qq.com/s/qMfUm2fsOS6EHHaa1nbdpw)
