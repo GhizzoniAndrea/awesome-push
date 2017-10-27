@@ -39,3 +39,15 @@ A curated list of awesome push libraries and articles.
 - [NPush](https://github.com/zhaoyangzhou/NPush) -消息推送和即时通讯
 
 - [Android-tcp-long-connection-based-on-Apache-mina](https://github.com/sddyljsx/Android-tcp-long-connection-based-on-Apache-mina) -基于Apache mina 的tcp长连接实现,可用于android客户端推送
+
+- [MiPushFramework](https://github.com/Trumeet/MiPushFramework) -在任何非 MIUI 设备上体验小米系统级推送
+
+- [push](https://github.com/sromku/push) -Simple Android GCM push library. http://test.sromku.com/ + test web page
+
+- [OnePush](https://github.com/pengyuantao/OnePush) -消息推送用OnePush，就够了！
+
+- [WePush](https://github.com/rememberber/WePush) -专注批量推送的小而美的工具，目前支持的消息类型：微信模板消息、微信客服消息、阿里大于模板短信 
+
+- [AndroidPush](https://github.com/jiang111/AndroidPush) -更方便的将各个rom厂商自己的推送服务进行集成,并统一管理
+
+- [MixPush](https://github.com/joyrun/MixPush) -Android融合推送MixPush集成多家推送平台，共享系统级推送，杀死APP也能收到推送
